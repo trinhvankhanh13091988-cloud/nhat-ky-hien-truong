@@ -1,8 +1,0 @@
-{
-  "name": "Nhật ký hiện trường V6.0",
-  "short_name": "Nhật ký V6.0",
-  "start_url": "./index.html?v=6.0.0",
-  "display": "standalone",
-  "theme_color": "#1769aa",
-  "background_color": "#f3f6f9"
-}
